@@ -1,0 +1,5 @@
+digraph mygraph {
+    a -> b [label="edge1"];
+    b -> c [label="edge2"];
+    c -> a [label="edge3"];
+}
